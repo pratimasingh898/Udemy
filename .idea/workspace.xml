@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c712c5b6-ef9e-4fff-bcdc-31fc31a4488d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Learning_Git/src/Prime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning_Git/src/Prime_in_Range.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,7 +20,7 @@
         <entry file="file://$PROJECT_DIR$/Learning_Git/src/Hello_World.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="144">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -37,8 +37,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Learning_Git/src/Prime.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+            <state relative-caret-position="198">
+              <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Learning_Git/src/Prime_in_Range.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="71">
+              <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -61,6 +70,7 @@
         <option value="$PROJECT_DIR$/Learning_Git/src/Hello_World.java" />
         <option value="$PROJECT_DIR$/Learning_Git/src/FizzBuzz.java" />
         <option value="$PROJECT_DIR$/Learning_Git/src/Prime.java" />
+        <option value="$PROJECT_DIR$/Learning_Git/src/Prime_in_Range.java" />
       </list>
     </option>
   </component>
@@ -102,7 +112,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565883834648" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566510361723" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -143,9 +153,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Prime_in_Range" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Prime_in_Range" />
+      <module name="Learning_Git" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Prime" />
+        <item itemvalue="Application.Prime_in_Range" />
         <item itemvalue="Application.FizzBuzz" />
         <item itemvalue="Application.Hello_World" />
       </list>
@@ -178,7 +196,7 @@
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32972974" />
+      <window_info anchor="bottom" id="Messages" weight="0.3289689" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
@@ -200,34 +218,34 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Learning_Git/src/Prime.java</url>
-          <line>13</line>
-          <properties />
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Learning_Git/src/Prime.java</url>
+          <url>file://$PROJECT_DIR$/Learning_Git/src/Prime_in_Range.java</url>
           <line>14</line>
           <properties />
-          <option name="timeStamp" value="8" />
+          <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Learning_Git/src/Prime.java</url>
-          <line>20</line>
+          <url>file://$PROJECT_DIR$/Learning_Git/src/Prime_in_Range.java</url>
+          <line>15</line>
           <properties />
-          <option name="timeStamp" value="9" />
+          <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Learning_Git/src/Prime.java</url>
-          <line>11</line>
+          <url>file://$PROJECT_DIR$/Learning_Git/src/Prime_in_Range.java</url>
+          <line>16</line>
           <properties />
-          <option name="timeStamp" value="10" />
+          <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Learning_Git/src/Prime.java</url>
-          <line>12</line>
+          <url>file://$PROJECT_DIR$/Learning_Git/src/Prime_in_Range.java</url>
+          <line>18</line>
           <properties />
-          <option name="timeStamp" value="11" />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Learning_Git/src/Prime_in_Range.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="27" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -236,7 +254,7 @@
     <entry file="file://$PROJECT_DIR$/Learning_Git/src/Hello_World.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
@@ -247,10 +265,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Learning_Git/src/Prime_in_Range.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="71">
+          <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Learning_Git/src/Prime.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+        <state relative-caret-position="198">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
         </state>
       </provider>
     </entry>
