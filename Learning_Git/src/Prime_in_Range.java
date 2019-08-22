@@ -13,13 +13,16 @@ public class Prime_in_Range {
         int flag=0;
         ArrayList<Integer> arr= new ArrayList<>();
         for (int i = firstRange; i <= lastRange; i++) {
+            if (i == 0 || i == 1) {
+                flag = 0;
+            }
             for (int j = 2; j <= i-1; j++) {
                 if (i % j == 0) {
-                    flag=0;
+                    flag = 0;
                     break;
                 }
                 else{
-                    flag=1;
+                    flag = 1;
                 }
                 }
             if(flag==1){
@@ -27,6 +30,14 @@ public class Prime_in_Range {
             }
 
             }
-        System.out.println(arr);
+//        System.out.println(arr);
+
+        System.out.println("Prime number in the range are: ");
+        for(int i = 0; i< arr.size();i++){
+            System.out.print(arr.get(i) + " ");
         }
+
+     scan.close();
     }
+
+}
